@@ -1,1 +1,1 @@
-system devoo
+shell-permission
