@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lan /etc/passwdd
+cat /etc/passwdd
